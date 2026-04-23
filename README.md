@@ -53,10 +53,6 @@ Adicione imagens em uma pasta como `docs/screenshots/` e referencie aqui:
 ![Diálogo com o Mestre](docs/screenshots/master-dialog.png)
 ```
 
-## Download
-
-- Android (Google Play): https://play.google.com/store/apps/details?id=com.bilbo.bilbomobile&hl=pt_BR
-
 ---
 
 Se você curte RPG com narrativa dinâmica e decisões com impacto real, o DiceMind é para você.
