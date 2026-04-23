@@ -22,7 +22,7 @@ Diferente de ferramentas focadas apenas em texto, aqui o jogador participa ativa
 
 ## Objetivo
 
-Criar uma experiência de RPG acessível para jogar sozinho, direto no navegador, sem depender de um mestre humano.
+Criar uma experiência de RPG acessível para jogar sozinho, com narrativa dinâmica guiada por IA e sem depender de um mestre humano.
 
 ## Estado Atual
 
@@ -37,9 +37,11 @@ A proposta é continuar melhorando a consistência do jogo e a integração entr
 
 ## Como Jogar
 
-1. Acesse o jogo no navegador.
-2. Inicie sua aventura e interaja com o Mestre (IA).
-3. Faça escolhas, role dados e acompanhe a evolução da história.
+1. Baixe o app na Google Play.
+2. Faça seu cadastro.
+3. Crie seu personagem.
+4. Adicione sua API key.
+5. Inicie a aventura e jogue.
 
 ## Screenshots
 
