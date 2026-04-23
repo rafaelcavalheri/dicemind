@@ -43,16 +43,6 @@ A proposta é continuar melhorando a consistência do jogo e a integração entr
 4. Adicione sua API key.
 5. Inicie a aventura e jogue.
 
-## Screenshots
-
-Adicione imagens em uma pasta como `docs/screenshots/` e referencie aqui:
-
-```md
-![Tela inicial](docs/screenshots/home.png)
-![Combate](docs/screenshots/combat.png)
-![Diálogo com o Mestre](docs/screenshots/master-dialog.png)
-```
-
 ---
 
 Se você curte RPG com narrativa dinâmica e decisões com impacto real, o DiceMind é para você.
