@@ -2,7 +2,7 @@
 
 # DiceMind
 
-**RPG solo no navegador, com narrativa guiada por IA e regras inspiradas em AD&D 2ª edição.**
+**RPG solo com narrativa guiada por IA e regras inspiradas em AD&D 2ª edição.**
 
 [![Google Play](https://img.shields.io/badge/Google_Play-Baixar_o_jogo-34A853?style=for-the-badge&logo=google-play&logoColor=white)](https://play.google.com/store/apps/details?id=com.bilbo.bilbomobile&hl=pt_BR)
 
